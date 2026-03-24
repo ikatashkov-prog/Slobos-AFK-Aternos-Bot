@@ -8,7 +8,7 @@
   "server": {
     "ip": "EternaWorld.aternos.me",
     "port": 51044,
-    "version": "",
+    "version": false,
     "try-creative": false
   },
   "position": {
@@ -66,7 +66,7 @@
   },
   "combat": {
     "attack-mobs": true,
-    "auto-eat": true
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": false,
